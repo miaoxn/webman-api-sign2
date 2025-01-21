@@ -9,7 +9,7 @@
     "sign"
   ],
   "require": {
-    "webman/think-cache": "^1.0.2",
+    "miaoxn/think-cache": "*",
     "webman/think-orm": "^1.1.6",
     "phpseclib/phpseclib": "~3.0"
   },
